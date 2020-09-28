@@ -1,4 +1,4 @@
-**Final Project** *worked on* **2019**<br><br>
+**Final Project** *worked on in* **2019**<br><br>
 *for the course*<br>
 # **[Introduction to HTML5](https://www.online.umich.edu/courses/introduction-to-html5/)**<br><br>
 *offered by*<br>
